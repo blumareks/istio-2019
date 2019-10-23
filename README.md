@@ -2,7 +2,7 @@
 A workshop on Istio.io. If you like it give me a star.
 
 ## Step 1 - Your Cloud Account
-Please sign up for IBM Cloud here -> [access/signup](http://ibm.biz/BdzgGs)
+Please sign up for IBM Cloud here -> [access/signup](http://ibm.biz/201910-istio-webinar)
 
 ## Step 2 - Getting Your K8s Cluster Provisioned
 As soon as you are signed up, and potentially logged in 
